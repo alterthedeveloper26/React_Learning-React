@@ -1,0 +1,36 @@
+.error-message {
+  margin: 0 auto;
+  height: 25%;
+  width: 50%;
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.error-message__header {
+  background-color: indigo;
+  color: white;
+  padding: 10px 20px;
+}
+
+.error-message__body {
+  padding: 20px 20px 10px;
+}
+
+.error-message__footer {
+  text-align: right;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.okay {
+  background-color: indigo;
+  color: white;
+  width: 70px;
+  height: 20px;
+  margin-right: 5px;
+  text-align: center;
+}

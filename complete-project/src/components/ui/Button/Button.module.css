@@ -1,0 +1,8 @@
+.button {
+  box-sizing: border-box;
+  background-color: rgb(78, 24, 129);
+  color: white;
+  padding: 4px 18px;
+  font-size: 18px;
+  font-weight: 200;
+}
